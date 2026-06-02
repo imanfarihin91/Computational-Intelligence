@@ -10,7 +10,7 @@ MCTA3371 Mini Project
 3. Install numpy
 4. Install deap
 5. Install matplotlib
-3. Run: `code.py`
+3. Run: `ciminiproject.py`
 
 ## Features
 - Fuzzy Logic controller for real-time navigation decisions
